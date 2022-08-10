@@ -1,7 +1,7 @@
 const fetch = require('node-fetch')
 
-const CONTRACT = process.env.0xeF8e1487bF1e4D8A978411A8BdBF4cB20E3CA42C;
-const AUTH = process.env.d81d4e50-f22d-40b6-9478-890053db265e;
+const CONTRACT = process.env."0xeF8e1487bF1e4D8A978411A8BdBF4cB20E3CA42C";
+const AUTH = process.env."d81d4e50-f22d-40b6-9478-890053db265e";
 const chain = "ethereum";
 const include = "metadata";
 
